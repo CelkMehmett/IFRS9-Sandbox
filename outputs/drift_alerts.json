@@ -1,0 +1,44 @@
+{
+  "psi_alerts": [
+    {
+      "feature": "income",
+      "psi": 0.0030802467773807,
+      "level": "green"
+    },
+    {
+      "feature": "score",
+      "psi": 0.0041880294170031,
+      "level": "green"
+    },
+    {
+      "feature": "ltv0",
+      "psi": 0.0043557406615908,
+      "level": "green"
+    },
+    {
+      "feature": "limit",
+      "psi": 0.0019346693364055,
+      "level": "green"
+    },
+    {
+      "feature": "ead0",
+      "psi": 0.0021021811724366,
+      "level": "green"
+    },
+    {
+      "feature": "secured",
+      "psi": 0.0007209495760336,
+      "level": "green"
+    },
+    {
+      "feature": "seg_SME",
+      "psi": 0.0006672471208812,
+      "level": "green"
+    },
+    {
+      "feature": "seg_CON",
+      "psi": 0.0011281988434158,
+      "level": "green"
+    }
+  ]
+}
