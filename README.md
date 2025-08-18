@@ -99,7 +99,7 @@ V2: Streamlit arayüzü
 
 V3: ECB/IMF makro senaryo entegrasyonu
 
-    V4: Çok dillilik (EN + TR)
+V4: Çok dillilik (EN + TR)
 
 🤝 Katkı
 
