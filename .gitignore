@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+env/
+venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# data & artifacts
+artifacts/
+outputs/
+reports/
+*.parquet
+*.feather
+*.csv
+*.csv.gz
+*.zip
+*.pdf
+*.png
+*.html
+*.log
