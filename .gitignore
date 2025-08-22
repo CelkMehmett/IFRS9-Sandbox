@@ -3,24 +3,9 @@ __pycache__/
 *.pyo
 *.pyd
 *.egg-info/
-.venv/
-.env
-env/
-venv/
+.venv/ .env/ env/ venv/
 .ipynb_checkpoints/
-.vscode/
-.idea/
+.vscode/ .idea/
 
-# data & artifacts
-artifacts/
-outputs/
-reports/
-*.parquet
-*.feather
-*.csv
-*.csv.gz
-*.zip
-*.pdf
-*.png
-*.html
-*.log
+artifacts/ outputs/ reports/
+*.parquet *.feather *.csv *.csv.gz *.zip *.pdf *.png *.html *.log
